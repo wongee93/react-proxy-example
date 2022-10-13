@@ -1,6 +1,6 @@
 import React from 'react'
 
-const DisplayBoard = ({numberOfBooks, getAllBook}) => {
+const DisplayBoard = ({numberOfBooks, getAllBook, getAllTodo}) => {
     
     return(
         <div className="display-wrapper">
